@@ -4,4 +4,9 @@ public void hello()
 {
 System.debug('Hello');
 }
+public void bye()
+{
+System.debug('bye');
+}
+
 }
