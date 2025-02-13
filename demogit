@@ -1,0 +1,7 @@
+public class demogit
+{
+public void hello()
+{
+System.debug('Hello');
+}
+}
