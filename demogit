@@ -8,5 +8,8 @@ public void bye()
 {
 System.debug('bye');
 }
+public void dosum(){
+system.debug("sum");
+}
 
 }
